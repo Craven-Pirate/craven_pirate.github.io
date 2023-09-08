@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Personal Website</title>
+  </head>
+  <body>
+    <h1>About Me</h1>
+    <p>Write something about yourself here.</p>
+
+    <h1>Blogs</h1>
+    <ul>
+      <li><a href="blog1.html">Blog 1</a></li>
+      <li><a href="blog2.html">Blog 2</a></li>
+    </ul>
+
+    <h1>Valuation Models</h1>
+    <ul>
+      <li><a href="valuation1.html">Valuation Model 1</a></li>
+      <li><a href="valuation2.html">Valuation Model 2</a></li>
+    </ul>
+  </body>
+</html>
